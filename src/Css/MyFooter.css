@@ -1,0 +1,8 @@
+.my-footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f7f7ff;
+    padding-top: 50px;
+}

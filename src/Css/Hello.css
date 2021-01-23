@@ -1,0 +1,12 @@
+.hello{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f7f7ff;
+}
+
+.hello-connection{
+    display: flex;
+    justify-content: flex-start;
+}
